@@ -1,5 +1,7 @@
 # Math352Project
 
+![Fluid Flow Demo](fluid.gif)
+
 Welcome to the **Simple Fluid Simulator**!  
 This project provides a basic fluid simulation using a graphical user interface (GUI) built with **GNU Octave**.
 
